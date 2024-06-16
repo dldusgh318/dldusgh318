@@ -1,5 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=blink&fontAlign=70&fontSize=50&height=150)
 
+
+## Tech Stack 🔨🔨
+
 <img src="https://img.shields.io/badge/Spring-628fda.svg?style=for-the-badge&logo=Spring IDEA&logoColor=000000" />
 <img src="https://img.shields.io/badge/java-628fda.svg?style=for-the-badge&logo=Java&logoColor=000000" />
 
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+      <img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=react&logoColor=black">
+    </div><br>
+</div>
+
+## Others
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:pololydotoly@naver.com">
+        <img src="https://img.shields.io/badge/
+        Email-#03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
+    <a href="https://velog.io/@yeonho03/posts">
+        <img src="https://img.shields.io/badge/
+        Velog-#20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
+    </a>
+</div>
