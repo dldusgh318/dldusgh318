@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=twinkling&fontAlign=50&fontSize=50&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=twinkling&fontAlign=50&fontSize=50&height=80&fontHeight=100)
 
 
 ## Tech Stack 🔨🔨
@@ -32,4 +32,4 @@
         <img src="https://img.shields.io/badge/
         Velog-#20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
-</div>
+
