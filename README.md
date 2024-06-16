@@ -3,9 +3,6 @@
 
 ## Tech Stack 🔨🔨
 
-<img src="https://img.shields.io/badge/Spring-628fda.svg?style=for-the-badge&logo=Spring IDEA&logoColor=000000" />
-<img src="https://img.shields.io/badge/java-628fda.svg?style=for-the-badge&logo=Java&logoColor=000000" />
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -24,6 +21,7 @@
 </div>
 
 ## Others
+
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:pololydotoly@naver.com">
         <img src="https://img.shields.io/badge/
