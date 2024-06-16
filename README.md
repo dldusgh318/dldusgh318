@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=blink&fontAlign=50&fontSize=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=twinkling&fontAlign=50&fontSize=50&height=80)
 
 
 ## Tech Stack 🔨🔨
