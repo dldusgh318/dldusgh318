@@ -3,7 +3,7 @@
 
 ## Tech Stack 🔨🔨
 
-<div style="display:flex; flex-direction:column; align-items:center;">
+<div style="display:flex; flex-direction:column; align-items:center; justify-content:center;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
