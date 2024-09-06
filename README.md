@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=twinkling&fontAlign=50&fontSize=50&height=80&fontHeight=100)
 
-<div align=center>
+
 
 ## Tech Stack 🔨🔨
 
@@ -43,4 +43,4 @@
 
 ![LeeYatHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=00000000)
 
-</div>
+
