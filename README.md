@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=leeyatho's　Github&theme=tokyonight&animation=twinkling&fontAlign=50&fontSize=50&height=80&fontHeight=100)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World!;Welcome to LeeYatHo's Github)](https://git.io/typing-svg)
 
 
 
