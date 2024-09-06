@@ -22,7 +22,7 @@
     </div><br>
 </div>
 
-## 💻 Experience
+## Experience
 <li> 홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
 <li> 대학생 IT 연합 사이드 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub></li>
