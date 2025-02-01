@@ -26,7 +26,7 @@
 - 홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub>
-- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 파트장 <sub>(2024.08 ~ )</sub>
+- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 파트장 <sub>(2024.08 ~ 2025.01)</sub>
 - KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
 
 ## Experience
