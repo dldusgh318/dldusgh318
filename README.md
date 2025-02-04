@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=0092F1&width=435&lines=Hello+World!;Welcome+to+the+Lee+Yat+Ho's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=0092F1&width=435&lines=Hello+World!;Welcome+to+the+Lee+Yeon+Ho's+Github)](https://git.io/typing-svg)
 
 
 
@@ -27,7 +27,7 @@
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 파트장 <sub>(2024.08 ~ 2025.01)</sub>
-- KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
+- KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20) ✨AI보안 기술개발 교육과정 우수상 수여✨</sub>
 
 ## Experience
 - <a href="https://github.com/fitness-bro">1:1 PT 매칭 서비스</a>: "더이상 PT말고 동네형에게 헬스 과외 받자, 동네형" FE 참여 <sub>(2023.12~2024.04)</sub>
