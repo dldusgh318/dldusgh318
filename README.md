@@ -27,12 +27,12 @@
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 파트장 <sub>(2024.08 ~ 2025.01)</sub>
-- KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20) ✨AI보안 기술개발 교육과정 우수상 수여✨</sub>
+- KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
 
 ## Experience
 - <a href="https://github.com/fitness-bro">1:1 PT 매칭 서비스</a>: "더이상 PT말고 동네형에게 헬스 과외 받자, 동네형" FE 참여 <sub>(2023.12~2024.04)</sub>
 - <a href="https://github.com/UMC-ShowHoo">공연 준비 및 공연 예매 서비스</a>: "당신을 위한 공연 플랫폼, ShowHoo" BE 참여 <sub>(2024.07~2024.08)</sub>
-- <a href="https://github.com/5i5i">AI보안 프로젝트</a>: "일상 블로그 속 개인정보 결합을 통한 개인식별 위험도 예측 서비스" BE, AI 참여 <sub>(2024.08.20 ~2024.11.20)</sub>
+- <a href="https://github.com/5i5i">AI보안 프로젝트</a>: "일상 블로그 속 개인정보 결합을 통한 개인식별 위험도 예측 서비스" BE, AI 참여 <sub>(2024.08.20 ~2024.11.20) ✨AI보안 기술개발 교육과정 우수상 수여✨</sub>
 - <a href="https://github.com/ChungBazi">청년 정책 맞춤 서비스</a>: "정책도 쉽고 간편하게, 청바지" BE 참여 <sub>(2025.01~)</sub>
 
 ## Others
