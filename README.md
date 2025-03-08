@@ -27,7 +27,7 @@
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 운영진 <sub>(2024.08 ~ 2025.01)</sub>
-- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 8기 홍익대 회장 <sub>(2025.02 ~ )</sub>
+- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 8기 회장 <sub>(2025.02 ~ )</sub>
 - KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
 
 
