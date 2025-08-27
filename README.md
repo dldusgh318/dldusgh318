@@ -10,7 +10,6 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -50,14 +49,16 @@
     </a>
 
   <div className="flex items-center">
-![LeeYatHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=00000000)
+      <img
+    src="https://github-readme-stats.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=00000000"
+    width="400"
+    />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaeyoungwon&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/chaeyoungwon"
-    width="350"
-    height="175"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dldusgh318&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dldusgh318"
+  width="400"
+  height="200"
+/>
 </a>
-  </div>
-</div>
+  
