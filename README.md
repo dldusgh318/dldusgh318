@@ -27,9 +27,9 @@
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 5기 FE(Web) <sub>(2023.09 ~ 2024.02)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 6기 BE <sub>(2024.03 ~ 2024.08)</sub>
 - 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 7기 BE 운영진 <sub>(2024.08 ~ 2025.01)</sub>
-- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 8기 회장 <sub>(2025.02 ~ )</sub>
+- 홍익대<a href="https://github.com/HIUMC"> UMC</a> - 8기 회장 <sub>(2025.02 ~ 2025.08)</sub>
 - KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
-
+- 한국대학생IT경영학회 KUSITMS - 32기 BE <sub>(2025.08 ~)</sub>
 
 ## Experience
 - <a href="https://github.com/fitness-bro">1:1 PT 매칭 서비스</a>: "더이상 PT말고 동네형에게 헬스 과외 받자, 동네형" FE 참여 <sub>(2023.12~2024.04)</sub>
@@ -49,7 +49,15 @@
         Velog-#20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
 
-
+  <div className="flex items-center">
 ![LeeYatHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=00000000)
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaeyoungwon&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/chaeyoungwon"
+    width="350"
+    height="175"
+  />
+</a>
+  </div>
+</div>
