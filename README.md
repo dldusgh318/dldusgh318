@@ -66,18 +66,17 @@
   <div className="flex items-center" >
 
   <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318#gh-light-mode-only">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764&card_width=400"
-    width="48%"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764"
+    width="45%"
   />
   <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318#gh-dark-mode-only">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&theme=nord&card_width=100px"
-    width="48%"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dldusgh318&show_icons=true&theme=nord"
+    width="45%"
   />
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dldusgh318&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/dldusgh318"
-  width="400"
-  height="192"/>
+  width="45%"/>
 </a>
 </div>
