@@ -44,9 +44,9 @@
 - Hongik UMC</a> - 7기 BE 운영진 <sub>(2024.08 ~ 2025.01)</sub>
 - Hongik UMC</a> - 8기 회장 <sub>(2025.02 ~ 2025.08)</sub>
 - KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
-- 한국대학생IT경영학회 KUSITMS - 32기 BE <sub>(2025.08 ~)</sub>
+- 한국대학생IT경영학회 KUSITMS - 32기 BE <sub>(2025.08 ~ 2025.12)</sub>
 - 신촌 연합 IT 창업동아리 CEOS - 22기 BE <sub>(2025.09 ~)</sub>
-- AWS Cloud Club Hongik 3기 <sub>(2025.09 ~)</sub>
+- AWS Cloud Club Hongik 3기 <sub>(2025.09 ~ 2025.12)</sub>
 
 <br>
 
@@ -56,8 +56,8 @@
 - 일상 블로그 속 개인정보 결합을 통한 개인식별 위험도 예측 서비스 - 기획, BE <sub>(2024.08.20 ~ 2024.11.20) ✨AI보안 기술개발 교육과정 우수상 수여✨</sub>
 - 청년 정책 맞춤 서비스 **청바지** - BE <sub>(2025.01 ~ )</sub>
 - KUSITMS X 직행 기업과제 직행 2팀 - BE <sub>(2025.08.20 ~ 2025.09) ✨최우수상 수여✨</sub>
-- 소프트스킬 기반 팀빌딩 서비스 **TEAMFICIAL** - BE Lead <sub>(2025.10 ~ )</sub>
-- 모델 매칭 서비스 **Modelly** - BE Lead <sub>(2025.10 ~ )</sub>
+- 소프트스킬 기반 팀빌딩 서비스 **TEAMFICIAL** - BE Lead <sub>(2025.10 ~ 2026.01)</sub>
+- 시술 모델 - 디자이너 매칭 서비스 **MOANDI** - BE Lead <sub>(2025.10 ~ )</sub>
 
 <br>
 
