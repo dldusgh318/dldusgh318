@@ -45,7 +45,7 @@
 - Hongik UMC</a> - 8기 회장 <sub>(2025.02 ~ 2025.08)</sub>
 - KISIA 주관 AI보안 기술개발 개인정보반 교육 참여 <sub>(2024.07.22 ~ 2024.08.20)</sub>
 - 한국대학생IT경영학회 KUSITMS - 32기 BE <sub>(2025.08 ~ 2025.12)</sub>
-- 신촌 연합 IT 창업동아리 CEOS - 22기 BE <sub>(2025.09 ~)</sub>
+- 신촌 연합 IT 창업동아리 CEOS - 22기 BE, 23기 BE 운영진 <sub>(2025.09 ~)</sub>
 - AWS Cloud Club Hongik 3기 <sub>(2025.09 ~ 2025.12)</sub>
 
 <br>
